@@ -46,3 +46,7 @@
 [21Jun2025 18:37:04.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Modified entity data of Bob]
 [21Jun2025 18:37:39.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported Bob to xXseba_el_proXx]
 [21Jun2025 18:40:23.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Bob'/1129, l='ServerLevel[world]', x=-5.91, y=89.00, z=-53.30] died: Bob burned to death
+[21Jun2025 18:48:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Summoned new nose]
+[21Jun2025 18:48:44.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['nose'/3290, l='ServerLevel[world]', x=-84.60, y=88.00, z=9.61] died: nose burned to death
+[21Jun2025 18:50:31.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Summoned new nose]
+[21Jun2025 18:51:03.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Summoned new Zombie]
