@@ -258,3 +258,6 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [22Jun2025 20:05:39.159] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665854650000006E7, 64.99999946305678, -7.801288980990648] -> [-364.2003001347184, 66.79999941537307, 1.2290058650000006E7] returning empty list! this might break things
 [22Jun2025 20:08:52.665] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 3 blocks, out of 32768 allowed
 [22Jun2025 20:13:02.836] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 17 blocks, out of 32768 allowed
+[22Jun2025 20:24:23.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[22Jun2025 20:24:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[22Jun2025 20:24:23.160] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
