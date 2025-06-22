@@ -7,9 +7,80 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-06-22 19:39:21 +0000"
+      "minecraft:taiga": "2025-06-22 19:39:21 +0000",
+      "minecraft:snowy_taiga": "2025-06-22 19:41:57 +0000",
+      "minecraft:frozen_ocean": "2025-06-22 19:49:02 +0000"
     },
     "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-06-22 19:46:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-06-22 19:45:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-22 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-06-22 19:41:04 +0000",
+      "has_black_balloon": "2025-06-22 19:41:04 +0000",
+      "has_lime_balloon": "2025-06-22 19:41:04 +0000",
+      "has_cyan_balloon": "2025-06-22 19:41:04 +0000",
+      "has_light_blue_balloon": "2025-06-22 19:41:04 +0000",
+      "has_gray_balloon": "2025-06-22 19:41:04 +0000",
+      "has_pink_balloon": "2025-06-22 19:41:04 +0000",
+      "has_light_gray_balloon": "2025-06-22 19:41:04 +0000",
+      "has_white_balloon": "2025-06-22 19:41:04 +0000",
+      "has_blue_balloon": "2025-06-22 19:41:04 +0000",
+      "has_yellow_balloon": "2025-06-22 19:41:04 +0000",
+      "has_purple_balloon": "2025-06-22 19:41:04 +0000",
+      "has_orange_balloon": "2025-06-22 19:41:04 +0000",
+      "has_brown_balloon": "2025-06-22 19:41:04 +0000",
+      "has_green_balloon": "2025-06-22 19:41:04 +0000",
+      "has_magenta_balloon": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-06-22 19:41:04 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

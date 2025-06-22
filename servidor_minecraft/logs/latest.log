@@ -232,3 +232,13 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [22Jun2025 19:40:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
 [22Jun2025 19:40:19.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [22Jun2025 19:40:19.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[22Jun2025 19:41:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made xXseba_el_proXx a server operator
+[22Jun2025 19:41:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[22Jun2025 19:48:41.315] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 17 blocks, out of 32768 allowed
+[22Jun2025 19:48:53.715] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669939650000006E7, 64.99999945168663, -28.797309670597315] -> [-369.1992058157921, 66.79999940400292, 1.2290053650000006E7] returning empty list! this might break things
+[22Jun2025 19:48:58.759] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669939650000006E7, 65.00003878960135, -26.7900993118771] -> [-367.12495540320305, 66.80003874191763, 1.2290053650000006E7] returning empty list! this might break things
+[22Jun2025 19:49:03.763] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669939650000006E7, 65.00213077079455, -16.784373963428806] -> [-365.0843583517317, 66.80213072311084, 1.2290053650000006E7] returning empty list! this might break things
+[22Jun2025 19:49:08.811] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669939650000006E7, 64.99999937950295, -13.271772430295893] -> [-364.25520021305056, 66.79999933181924, 1.2290053650000006E7] returning empty list! this might break things
+[22Jun2025 19:49:49.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[22Jun2025 19:49:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[22Jun2025 19:49:49.108] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
