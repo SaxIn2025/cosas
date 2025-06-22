@@ -242,3 +242,18 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [22Jun2025 19:49:49.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
 [22Jun2025 19:49:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [22Jun2025 19:49:49.108] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[22Jun2025 20:02:12.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@18769d83[id=<null>,name=xXseba_el_proXx,properties={},legacy=false] (/127.69.9.94:46893): Took too long to log in
+[22Jun2025 20:02:12.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18769d83[id=<null>,name=xXseba_el_proXx,properties={},legacy=false] (/127.69.9.94:46893) lost connection: Took too long to log in
+[22Jun2025 20:02:12.204] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jun2025 20:03:06.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.69.9.94:56003] logged in with entity id 1644 at (-362.8940547715757, 63.0, -11.889698116180767)
+[22Jun2025 20:03:06.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[22Jun2025 20:03:36.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[22Jun2025 20:03:36.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[22Jun2025 20:03:36.407] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[22Jun2025 20:04:36.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.69.9.94:32877] logged in with entity id 1761 at (-362.8940547715757, 63.0, -11.889698116180767)
+[22Jun2025 20:04:36.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[22Jun2025 20:04:37.341] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[22Jun2025 20:04:37.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[22Jun2025 20:05:29.914] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 17 blocks, out of 32768 allowed
+[22Jun2025 20:05:39.159] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665854650000006E7, 64.99999946305678, -7.801288980990648] -> [-364.2003001347184, 66.79999941537307, 1.2290058650000006E7] returning empty list! this might break things
+[22Jun2025 20:08:52.665] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 3 blocks, out of 32768 allowed
