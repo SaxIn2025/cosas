@@ -218,3 +218,24 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 20:20:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
 [26Jun2025 20:20:25.199] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
 [26Jun2025 20:21:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Acquire Hardware]
+[26Jun2025 20:28:52.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MxM_7z[/127.114.40.229:51567] logged in with entity id 13493 at (794.5, 64.0, 1193.5)
+[26Jun2025 20:28:52.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z joined the game
+[26Jun2025 20:28:55.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MxM_7z (18)
+[26Jun2025 20:28:55.219] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MxM_7z
+[26Jun2025 20:29:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> tu tiene energia mecanica
+[26Jun2025 20:29:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> ?
+[26Jun2025 20:29:24.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> tu no la tiene
+[26Jun2025 20:30:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[26Jun2025 20:31:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> callate
+[26Jun2025 20:31:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> pero tenes?
+[26Jun2025 20:31:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> ya me voy porque tengo que terminar lo de diseño
+[26Jun2025 20:31:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> hijo pa que me decis que prenda el server tonces
+[26Jun2025 20:32:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> si termino para antes de las 10 entro devuelta
+[26Jun2025 20:32:35.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> esta buena esta mierda
+[26Jun2025 20:32:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> aja
+[26Jun2025 20:32:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> ni probaste algo
+[26Jun2025 20:33:08.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> guanaco
+[26Jun2025 20:33:09.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Disconnected
+[26Jun2025 20:33:09.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[26Jun2025 20:33:09.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
+[26Jun2025 20:34:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Monster Hunter]
