@@ -290,3 +290,22 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 22:10:35.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
 [26Jun2025 22:10:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [26Jun2025 22:10:35.847] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[26Jun2025 22:18:15.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:32853] logged in with entity id 33840 at (302.58759969826104, -28.0, 960.9085446704873)
+[26Jun2025 22:18:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[26Jun2025 22:18:16.579] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[26Jun2025 22:18:16.579] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[26Jun2025 22:18:52.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 25 entities]
+[26Jun2025 22:19:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 24 entities]
+[26Jun2025 22:19:10.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 8 entities]
+[26Jun2025 22:19:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 25 entities]
+[26Jun2025 22:19:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 39 entities]
+[26Jun2025 22:19:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[26Jun2025 22:19:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Spectator Mode]
+[26Jun2025 22:19:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[26Jun2025 22:19:41.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Spectator Mode]
+[26Jun2025 22:19:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[26Jun2025 22:20:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie Villager
+[26Jun2025 22:24:12.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[26Jun2025 22:25:01.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[26Jun2025 22:25:01.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[26Jun2025 22:25:01.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
