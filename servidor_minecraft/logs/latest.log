@@ -141,3 +141,80 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 19:52:59.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
 [26Jun2025 19:56:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Stone Age]
 [26Jun2025 19:56:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Getting an Upgrade]
+[26Jun2025 20:02:21.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:46737] logged in with entity id 3908 at (421.8406360283529, 64.76127995298464, 1005.3697419175746)
+[26Jun2025 20:02:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[26Jun2025 20:02:31.912] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[26Jun2025 20:02:31.913] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[26Jun2025 20:03:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> hey
+[26Jun2025 20:03:10.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> sapo
+[26Jun2025 20:03:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> que
+[26Jun2025 20:03:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> estoy en creativo
+[26Jun2025 20:03:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> te muestro las fiscias?
+[26Jun2025 20:03:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> eeey
+[26Jun2025 20:03:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> sacate
+[26Jun2025 20:04:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported MxM_7z to xXseba_el_proXx]
+[26Jun2025 20:04:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> QUEEE
+[26Jun2025 20:04:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> mira y callate
+[26Jun2025 20:04:32.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> PELOTUDOOO
+[26Jun2025 20:04:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> ESTABA EN UN PORTAL
+[26Jun2025 20:04:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> una cagada
+[26Jun2025 20:04:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> a
+[26Jun2025 20:05:07.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> haceme tp ya donde estaba
+[26Jun2025 20:05:42.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> hai me pongo survival
+[26Jun2025 20:05:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> y te hago tu portal de mrd
+[26Jun2025 20:05:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> dejame aca mejor
+[26Jun2025 20:06:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> te hago /kill
+[26Jun2025 20:06:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no
+[26Jun2025 20:06:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> asi volves y te doy tus cosas
+[26Jun2025 20:06:27.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[26Jun2025 20:06:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no
+[26Jun2025 20:07:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> te doy el ship creator?
+[26Jun2025 20:07:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> para que pruebes?
+[26Jun2025 20:07:34.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> que es eso
+[26Jun2025 20:07:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no me tpes
+[26Jun2025 20:07:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> lo que le da fisicas a las cosas
+[26Jun2025 20:07:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Sweet Dreams]
+[26Jun2025 20:07:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no
+[26Jun2025 20:07:59.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> mi aldea
+[26Jun2025 20:08:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[26Jun2025 20:08:21.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> mandame un whats con todos los mods que hay entonces los estudio
+[26Jun2025 20:08:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[26Jun2025 20:08:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[26Jun2025 20:08:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[26Jun2025 20:08:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> leelos en tu mc
+[26Jun2025 20:08:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[26Jun2025 20:09:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> sacate el creativo sabandija
+[26Jun2025 20:09:10.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> ya me lo quite
+[26Jun2025 20:09:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> era para borrar mi inventario
+[26Jun2025 20:09:47.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> que feo que es j8ugar con 5 chunks
+[26Jun2025 20:09:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> te dije
+[26Jun2025 20:10:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> 1.12.2
+[26Jun2025 20:11:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Acquire Hardware]
+[26Jun2025 20:11:18.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> pero no sabes como se consiguen algunas cosas
+[26Jun2025 20:11:41.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> por eso voy a estudiar los mods
+[26Jun2025 20:11:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Stone Age]
+[26Jun2025 20:12:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Getting an Upgrade]
+[26Jun2025 20:12:41.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> donde mrd andas
+[26Jun2025 20:12:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> laguea el server
+[26Jun2025 20:12:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no te voy a decir
+[26Jun2025 20:13:05.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> tu pc se esta legueando
+[26Jun2025 20:13:22.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> yo estoy a 8 chunks
+[26Jun2025 20:13:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> fluido
+[26Jun2025 20:13:36.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> y baja
+[26Jun2025 20:16:37.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> saca el mod de fisicas
+[26Jun2025 20:16:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> no serviran los demas
+[26Jun2025 20:16:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> y
+[26Jun2025 20:17:01.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> no hay fisicas activas
+[26Jun2025 20:17:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> no tiene por que laguearse
+[26Jun2025 20:18:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> esta en facil?
+[26Jun2025 20:18:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> no c
+[26Jun2025 20:18:43.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> yo no toque nada del server
+[26Jun2025 20:18:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> fijate, porque los esqueletos no me hacian casi daño
+[26Jun2025 20:19:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: The difficulty has been set to Hard]
+[26Jun2025 20:19:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> listo
+[26Jun2025 20:19:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[26Jun2025 20:20:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Sweet Dreams]
+[26Jun2025 20:20:25.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Timed out
+[26Jun2025 20:20:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[26Jun2025 20:20:25.199] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
+[26Jun2025 20:21:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Acquire Hardware]
