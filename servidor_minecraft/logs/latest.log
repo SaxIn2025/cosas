@@ -135,3 +135,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 23:04:31.898] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [26Jun2025 23:13:16.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=69, z=1207} BlockPos{x=114, y=68, z=1206}
 [26Jun2025 23:13:16.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=70, z=1206} BlockPos{x=115, y=68, z=1204}
+[26Jun2025 23:23:25.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=70, z=1209} BlockPos{x=115, y=68, z=1208}
+[26Jun2025 23:23:25.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=70, z=1209} BlockPos{x=115, y=68, z=1208}
+[26Jun2025 23:23:26.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=69, z=1210} BlockPos{x=114, y=68, z=1212}
+[26Jun2025 23:23:26.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=69, z=1210} BlockPos{x=114, y=68, z=1212}
+[26Jun2025 23:23:26.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=69, z=1210} BlockPos{x=114, y=68, z=1212}
