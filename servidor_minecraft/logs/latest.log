@@ -252,3 +252,5 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 21:09:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
 [26Jun2025 21:09:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 81.500000, 26.000000, 1024.500000]
 [26Jun2025 21:11:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Suit Up]
+[26Jun2025 21:27:50.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22949, l='ServerLevel[world]', x=86.56, y=69.00, z=1218.42] died, message: 'Villager was slain by Zombie'
+[26Jun2025 21:28:08.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21440, l='ServerLevel[world]', x=88.22, y=69.00, z=1215.25] died, message: 'Villager was slain by Zombie'
