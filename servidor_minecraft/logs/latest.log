@@ -239,3 +239,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 20:33:09.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
 [26Jun2025 20:33:09.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
 [26Jun2025 20:34:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Monster Hunter]
+[26Jun2025 20:39:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Isn't It Iron Pick]
+[26Jun2025 20:42:45.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [The Andesite Age]
+[26Jun2025 20:44:12.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[26Jun2025 20:44:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[26Jun2025 20:44:12.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
