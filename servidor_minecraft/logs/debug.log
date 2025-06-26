@@ -6938,3 +6938,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jun2025 22:36:42.840] [Netty Epoll Server IO #2/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@1a147716, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
 [26Jun2025 22:37:38.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 22:37:38.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 22:39:10.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[26Jun2025 22:40:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 71.500000, 69.000000, 1031.500000]
+[26Jun2025 22:42:38.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:42:38.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 22:45:41.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[26Jun2025 22:45:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[26Jun2025 22:45:41.943] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xXseba_el_proXx
+[26Jun2025 22:45:41.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[26Jun2025 22:47:38.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:47:38.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

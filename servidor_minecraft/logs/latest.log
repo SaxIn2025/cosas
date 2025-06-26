@@ -336,3 +336,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 22:36:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
 [26Jun2025 22:36:29.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [26Jun2025 22:36:29.170] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[26Jun2025 22:39:10.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[26Jun2025 22:40:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 71.500000, 69.000000, 1031.500000]
+[26Jun2025 22:45:41.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[26Jun2025 22:45:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[26Jun2025 22:45:41.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
