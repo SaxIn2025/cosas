@@ -244,3 +244,11 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [26Jun2025 20:44:12.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
 [26Jun2025 20:44:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [26Jun2025 20:44:12.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[26Jun2025 20:48:42.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:59795] logged in with entity id 16809 at (96.69363360289263, 6.0, 1144.0503516527876)
+[26Jun2025 20:48:42.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[26Jun2025 20:48:43.403] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[26Jun2025 20:48:43.405] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[26Jun2025 21:05:22.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Not Today, Thank You]
+[26Jun2025 21:09:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[26Jun2025 21:09:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 81.500000, 26.000000, 1024.500000]
+[26Jun2025 21:11:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Suit Up]
