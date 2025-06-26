@@ -82,9 +82,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-22 20:06:50 +0000"
+    },
+    "done": false
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-06-22 20:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-22 20:07:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-06-22 20:08:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-06-22 20:08:22 +0000"
     },
     "done": true
   },
@@ -118,24 +202,6 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-06-22 20:06:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-22 20:06:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
@@ -148,27 +214,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
     },
     "done": true
   },
@@ -178,27 +226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
-  "create:linked_controller": {
-    "criteria": {
-      "0": "2025-06-22 20:06:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
     },
     "done": true
   },
@@ -214,12 +244,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-06-22 20:08:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
@@ -232,39 +256,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-06-22 20:06:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-22 20:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-22 20:07:53 +0000"
     },
     "done": true
   },
