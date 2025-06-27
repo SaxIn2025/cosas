@@ -129,3 +129,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 01:01:05.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [27Jun2025 01:01:05.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [27Jun2025 01:05:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [What a Deal!]
+[27Jun2025 01:07:48.537] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 1016 ms
+[27Jun2025 01:07:57.809] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 1049 ms
+[27Jun2025 01:08:01.401] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 996 ms
+[27Jun2025 01:08:12.411] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 1005 ms
+[27Jun2025 01:08:15.972] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 968 ms

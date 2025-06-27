@@ -3053,5 +3053,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-27 01:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-27 01:05:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
