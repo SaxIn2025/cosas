@@ -3499,21 +3499,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-06-27 02:33:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2025-06-27 02:28:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
     },
     "done": true
   },
@@ -3523,15 +3511,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-27 02:35:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-27 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
     },
     "done": true
   },
@@ -3553,9 +3541,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/propeller": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_item": "2025-06-27 02:33:53 +0000"
+      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
     },
     "done": true
   },
@@ -3565,21 +3559,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
+      "has_item": "2025-06-27 02:33:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
-      "has_log": "2025-06-27 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-27 02:30:25 +0000"
+      "has_item": "2025-06-27 02:33:53 +0000"
     },
     "done": true
   },
@@ -3592,6 +3580,18 @@
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-06-27 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-27 02:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 02:35:48 +0000"
     },
     "done": true
   },
