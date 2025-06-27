@@ -148,3 +148,140 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 01:30:01.100] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 957 ms
 [27Jun2025 01:30:05.386] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 942 ms
 [27Jun2025 01:30:09.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 946 ms
+[27Jun2025 01:39:57.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MxM_7z[/127.114.40.229:45735] logged in with entity id 8683 at (791.1832588429622, 64.0, 1194.566953986051)
+[27Jun2025 01:39:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z joined the game
+[27Jun2025 01:40:02.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MxM_7z (18)
+[27Jun2025 01:40:02.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MxM_7z
+[27Jun2025 01:40:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> cuidadito
+[27Jun2025 01:40:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> te veo
+[27Jun2025 01:40:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> me va a 2 fps
+[27Jun2025 01:41:15.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z was shot by xXseba_el_proXx
+[27Jun2025 01:41:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> decime que mod es
+[27Jun2025 01:42:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> tzac
+[27Jun2025 01:45:27.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.206.112.65:55447] logged in with entity id 11442 at (-397.5, 80.0, -42.5)
+[27Jun2025 01:45:27.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
+[27Jun2025 01:45:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 01:45:30.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
+[27Jun2025 01:45:30.419] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
+[27Jun2025 01:45:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> por que atacsa?
+[27Jun2025 01:45:49.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:49.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:50.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:50.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:50.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:51.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=79, z=-43}
+[27Jun2025 01:45:53.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=78, z=-45}
+[27Jun2025 01:45:55.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=78, z=-45}
+[27Jun2025 01:45:55.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=78, z=-45}
+[27Jun2025 01:45:56.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-396, y=78, z=-45}
+[27Jun2025 01:45:58.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-395, y=79, z=-45}
+[27Jun2025 01:46:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Isn't It Iron Pick]
+[27Jun2025 01:47:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> ey
+[27Jun2025 01:47:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> que
+[27Jun2025 01:47:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> no pusiste el mapa de mierda
+[27Jun2025 01:47:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> ???
+[27Jun2025 01:47:59.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> JAJJA
+[27Jun2025 01:48:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> mapa?
+[27Jun2025 01:48:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> si, el que ussas vos
+[27Jun2025 01:48:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> duerman
+[27Jun2025 01:48:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> y eso era si querias
+[27Jun2025 01:48:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> recien empiezo no tengo cama
+[27Jun2025 01:48:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> no tengo cama
+[27Jun2025 01:48:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> apurate
+[27Jun2025 01:48:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> pasa el mod
+[27Jun2025 01:49:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Monster Hunter]
+[27Jun2025 01:49:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> journeyMap
+[27Jun2025 01:49:27.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Stone Age]
+[27Jun2025 01:50:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Getting an Upgrade]
+[27Jun2025 01:52:17.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> DIAMANTES
+[27Jun2025 01:52:26.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> o:
+[27Jun2025 01:52:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> PERO NO TENGO PICO DE HIERRO PTM
+[27Jun2025 01:53:01.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 01:53:01.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 01:53:01.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 01:54:27.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [Monster Hunter]
+[27Jun2025 01:54:44.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:56421] logged in with entity id 16491 at (1135.699999988079, 62.0, 1594.4902202877565)
+[27Jun2025 01:54:44.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 01:55:13.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[27Jun2025 01:55:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[27Jun2025 01:55:13.764] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[27Jun2025 01:55:14.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 01:55:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 01:55:14.917] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 01:55:42.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.206.112.65:42517] logged in with entity id 16998 at (-670.7991759525978, 70.0, -43.8103219732863)
+[27Jun2025 01:55:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
+[27Jun2025 01:55:42.539] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
+[27Jun2025 01:55:42.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
+[27Jun2025 01:56:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sapo
+[27Jun2025 01:56:09.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> que
+[27Jun2025 01:56:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> JA
+[27Jun2025 01:56:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[27Jun2025 01:56:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si sueguis en el server
+[27Jun2025 01:56:51.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pensaba que no
+[27Jun2025 01:57:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] anda al general al disc
+[27Jun2025 01:57:15.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> deja de laguear el sv
+[27Jun2025 01:57:28.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no lo lagueo
+[27Jun2025 01:57:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> si
+[27Jun2025 01:57:39.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:39403] logged in with entity id 18031 at (1135.699999988079, 62.0, 1594.4902202877565)
+[27Jun2025 01:57:39.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 01:57:39.796] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 01:57:39.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 01:58:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> sapo
+[27Jun2025 01:58:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> aplastado
+[27Jun2025 01:58:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> anda al discord
+[27Jun2025 01:58:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> tengo spawner
+[27Jun2025 01:58:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> ya va
+[27Jun2025 01:59:21.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1128, y=67, z=1701} BlockPos{x=1128, y=65, z=1701}
+[27Jun2025 02:00:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> y que paso?
+[27Jun2025 02:05:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[27Jun2025 02:07:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Sweet Dreams]
+[27Jun2025 02:07:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> s
+[27Jun2025 02:17:38.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Diamonds!]
+[27Jun2025 02:17:46.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Diamonds!]
+[27Jun2025 02:18:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Isn't It Iron Pick]
+[27Jun2025 02:19:45.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:19:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> mucho zinc
+[27Jun2025 02:20:02.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:03.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> v
+[27Jun2025 02:20:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> v
+[27Jun2025 02:20:06.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzzzzz
+[27Jun2025 02:20:09.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:11.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:13.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> v
+[27Jun2025 02:20:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:20.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:23.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:24.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MxM_7z> zzz
+[27Jun2025 02:20:24.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Kicked for spamming
+[27Jun2025 02:20:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[27Jun2025 02:20:24.518] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
+[27Jun2025 02:21:27.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx moved while colliding with unloaded ships!
+[27Jun2025 02:22:26.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Acquire Hardware]
+[27Jun2025 02:23:57.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 02:23:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 02:23:57.407] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 02:25:27.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:47559] logged in with entity id 32050 at (104.66990417680432, 69.0, 1208.699999988079)
+[27Jun2025 02:25:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 02:25:28.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 02:25:28.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
