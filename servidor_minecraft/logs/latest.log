@@ -354,3 +354,27 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 03:23:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
 [27Jun2025 03:24:57.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/24569, l='ServerLevel[world]', x=135.41, y=69.50, z=1177.17] died, message: 'Leatherworker was slain by Zombie'
 [27Jun2025 03:28:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Suit Up]
+[27Jun2025 03:31:01.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 03:31:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 03:31:01.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 03:33:23.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:41787] logged in with entity id 44532 at (38.96994404734485, 60.0, 1195.4355372098375)
+[27Jun2025 03:33:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 03:33:25.339] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 03:33:25.339] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 03:35:00.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[27Jun2025 03:35:00.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[27Jun2025 03:35:00.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[27Jun2025 03:35:13.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.206.112.65:35739] logged in with entity id 44845 at (103.89018917876375, 69.0, 1207.980195122429)
+[27Jun2025 03:35:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
+[27Jun2025 03:35:13.908] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
+[27Jun2025 03:35:13.908] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
+[27Jun2025 03:37:07.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[27Jun2025 03:37:07.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[27Jun2025 03:37:07.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[27Jun2025 03:37:57.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.206.112.65:41549] logged in with entity id 45307 at (35.09990912617181, 63.0, 1196.1704799082308)
+[27Jun2025 03:37:57.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
+[27Jun2025 03:37:57.372] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
+[27Jun2025 03:37:57.373] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
+[27Jun2025 03:38:12.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[27Jun2025 03:38:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[27Jun2025 03:38:12.703] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
