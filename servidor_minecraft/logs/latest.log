@@ -144,3 +144,7 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 01:20:31.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [27Jun2025 01:20:31.041] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [27Jun2025 01:20:50.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3865, l='ServerLevel[world]', x=83.69, y=68.75, z=1129.17] died, message: 'Villager was slain by Zombie'
+[27Jun2025 01:29:57.441] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 911 ms
+[27Jun2025 01:30:01.100] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 957 ms
+[27Jun2025 01:30:05.386] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 942 ms
+[27Jun2025 01:30:09.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 946 ms
