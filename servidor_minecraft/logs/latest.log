@@ -339,3 +339,14 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 03:05:55.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
 [27Jun2025 03:05:56.785] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [27Jun2025 03:05:56.786] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 03:12:56.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 03:12:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 03:12:56.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 03:12:56.311] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 03:14:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Not Today, Thank You]
+[27Jun2025 03:14:14.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:44795] logged in with entity id 41376 at (38.30000001192093, 61.0, 1196.785651356548)
+[27Jun2025 03:14:14.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 03:14:15.268] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 03:14:15.268] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 03:14:46.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Take Aim]
+[27Jun2025 03:18:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
