@@ -134,3 +134,13 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 01:08:01.401] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 996 ms
 [27Jun2025 01:08:12.411] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 1005 ms
 [27Jun2025 01:08:15.972] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_desert (minecraft:desert) took 968 ms
+[27Jun2025 01:17:11.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/76, l='ServerLevel[world]', x=88.52, y=69.00, z=1216.57] died, message: 'Farmer was slain by Zombie'
+[27Jun2025 01:19:18.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[27Jun2025 01:19:18.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[27Jun2025 01:19:18.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 01:19:18.317] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 01:20:29.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:32885] logged in with entity id 3800 at (79.9241017181432, 67.79673560066871, 1199.7613007043929)
+[27Jun2025 01:20:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 01:20:31.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 01:20:31.041] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 01:20:50.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3865, l='ServerLevel[world]', x=83.69, y=68.75, z=1129.17] died, message: 'Villager was slain by Zombie'
