@@ -320,3 +320,15 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [27Jun2025 02:48:02.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
 [27Jun2025 02:48:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [27Jun2025 02:48:02.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[27Jun2025 02:49:02.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:42367] logged in with entity id 36219 at (36.07343188831937, 64.41999998688698, 1193.0602956906314)
+[27Jun2025 02:49:02.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[27Jun2025 02:49:03.778] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[27Jun2025 02:49:03.779] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[27Jun2025 02:52:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Cover Me with Diamonds]
+[27Jun2025 02:52:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Ice Bucket Challenge]
+[27Jun2025 02:55:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> ptm
+[27Jun2025 02:55:21.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> cuanto puedas consegui
+[27Jun2025 02:55:47.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> necesitamos netherite
+[27Jun2025 02:56:01.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> tengo 14 de obsidiana
+[27Jun2025 02:57:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[27Jun2025 02:57:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Ice Bucket Challenge]
