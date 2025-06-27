@@ -6922,3 +6922,49 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jun2025 03:17:39.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 03:17:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jun2025 03:18:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[27Jun2025 03:19:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by xXLauBy2010Xx
+[27Jun2025 03:19:28.212] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750994368197
+[27Jun2025 03:20:04.255] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[27Jun2025 03:20:04.256] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 52a2f378-3824-4af4-a17d-b5fd39c146bc watched ships: [30]
+[27Jun2025 03:20:05.658] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[27Jun2025 03:20:05.658] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 52a2f378-3824-4af4-a17d-b5fd39c146bc watched ships: [29]
+[27Jun2025 03:20:06.154] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[27Jun2025 03:20:06.809] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[27Jun2025 03:20:07.261] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[27Jun2025 03:20:07.654] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[27Jun2025 03:20:09.057] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[27Jun2025 03:20:09.503] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[27Jun2025 03:20:10.108] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768127
+[27Jun2025 03:20:14.103] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768128
+[27Jun2025 03:21:33.510] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768128
+[27Jun2025 03:21:33.958] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768127
+[27Jun2025 03:21:34.506] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[27Jun2025 03:21:34.866] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[27Jun2025 03:21:35.407] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[27Jun2025 03:21:35.956] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[27Jun2025 03:21:36.125] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[27Jun2025 03:21:37.006] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[27Jun2025 03:21:37.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[27Jun2025 03:21:37.106] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 66376e4d-fdf4-42b9-85a6-5ea3bb161d7a unwatched ships [29]
+[27Jun2025 03:21:38.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[27Jun2025 03:21:38.107] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 66376e4d-fdf4-42b9-85a6-5ea3bb161d7a unwatched ships [30]
+[27Jun2025 03:22:39.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 03:22:39.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 03:23:11.384] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinContraptionCollider from valkyrienskies-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
+[27Jun2025 03:23:14.462] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[27Jun2025 03:23:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[27Jun2025 03:23:36.506] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[27Jun2025 03:23:36.506] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768127
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768128
+[27Jun2025 03:23:36.507] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 66376e4d-fdf4-42b9-85a6-5ea3bb161d7a watched ships: [29, 30]
+[27Jun2025 03:24:57.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/24569, l='ServerLevel[world]', x=135.41, y=69.50, z=1177.17] died, message: 'Leatherworker was slain by Zombie'
+[27Jun2025 03:27:39.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 03:27:39.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 03:28:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Suit Up]
