@@ -4500,5 +4500,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-28 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-06-28 23:06:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

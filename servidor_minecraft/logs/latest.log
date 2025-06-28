@@ -159,3 +159,7 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
 [28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [28Jun2025 22:44:41.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[28Jun2025 22:59:06.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:56923] logged in with entity id 2466 at (97.43091609671887, 70.0, 1154.7665161698303)
+[28Jun2025 22:59:06.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[28Jun2025 22:59:07.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[28Jun2025 22:59:07.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
