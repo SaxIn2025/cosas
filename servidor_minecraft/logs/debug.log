@@ -5412,3 +5412,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Jun2025 22:38:37.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/822, l='ServerLevel[world]', x=68.41, y=65.00, z=1203.64] died, message: 'Mason was slain by Zombie'
 [28Jun2025 22:40:41.622] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
 [28Jun2025 22:40:41.625] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 041b6b3d-b9f4-48c3-a11f-929ea1c00864 watched ships: [30]
+[28Jun2025 22:42:00.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:42:00.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 22:44:41.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xXseba_el_proXx
+[28Jun2025 22:44:41.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[28Jun2025 22:47:00.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:47:00.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

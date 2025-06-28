@@ -156,3 +156,6 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 22:38:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
 [28Jun2025 22:38:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
 [28Jun2025 22:38:37.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/822, l='ServerLevel[world]', x=68.41, y=65.00, z=1203.64] died, message: 'Mason was slain by Zombie'
+[28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[28Jun2025 22:44:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 22:44:41.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
