@@ -172,3 +172,4 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 23:20:52.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [28Jun2025 23:20:52.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [28Jun2025 23:27:16.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Gave 1 [SecurityCraft Manual] to xXseba_el_proXx]
+[28Jun2025 23:31:29.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/558, l='ServerLevel[world]', x=84.53, y=77.00, z=1184.75] died, message: 'Mason was slain by Zombie'
