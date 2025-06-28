@@ -158,3 +158,22 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 19:12:04.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
 [28Jun2025 19:12:04.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [28Jun2025 19:12:04.395] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[28Jun2025 19:16:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [We Need to Go Deeper]
+[28Jun2025 19:16:57.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[28Jun2025 19:17:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [We Need to Go Deeper]
+[28Jun2025 19:17:28.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx walked into fire whilst fighting Ghast
+[28Jun2025 19:17:33.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[28Jun2025 19:18:03.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2702, l='ServerLevel[world]', x=85.83, y=68.12, z=1131.57] died, message: 'Villager was slain by Zombie'
+[28Jun2025 19:22:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx fell from a high place
+[28Jun2025 19:28:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[28Jun2025 19:29:08.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[28Jun2025 19:29:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[28Jun2025 19:29:08.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[28Jun2025 19:29:54.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[28Jun2025 19:29:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 19:29:54.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[28Jun2025 19:30:45.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:60197] logged in with entity id 6085 at (131.79437307101244, 68.0, 1149.311883535964)
+[28Jun2025 19:30:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[28Jun2025 19:30:48.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[28Jun2025 19:30:48.209] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[28Jun2025 19:31:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Crafting Table: Book + Iron Bars]
