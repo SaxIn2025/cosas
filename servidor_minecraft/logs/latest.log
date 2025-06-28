@@ -177,3 +177,6 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 19:30:48.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [28Jun2025 19:30:48.209] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [28Jun2025 19:31:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Crafting Table: Book + Iron Bars]
+[28Jun2025 19:48:54.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[28Jun2025 19:48:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 19:48:54.736] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
