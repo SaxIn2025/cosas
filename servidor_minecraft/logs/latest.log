@@ -132,3 +132,25 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 21:36:28.626] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [28Jun2025 21:36:28.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
 [28Jun2025 21:36:28.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[28Jun2025 21:45:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[28Jun2025 21:45:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 7.500000, -49.000000, 960.500000]
+[28Jun2025 21:45:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
+[28Jun2025 21:46:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 7.500000, -49.000000, 960.500000]
+[28Jun2025 21:46:52.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
+[28Jun2025 21:46:58.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 7.500000, -49.000000, 943.500000]
+[28Jun2025 21:47:02.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[28Jun2025 21:47:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[28Jun2025 21:47:20.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 5.500000, -50.000000, 941.500000]
+[28Jun2025 21:48:46.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 19 entities]
+[28Jun2025 21:49:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 21 entities]
+[28Jun2025 21:51:27.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[28Jun2025 21:51:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 21:51:27.621] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[28Jun2025 21:51:27.716] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 21:52:11.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:48241] logged in with entity id 5126 at (8.006351338081453, -50.0, 952.8819173101423)
+[28Jun2025 21:52:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[28Jun2025 21:52:12.376] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[28Jun2025 21:52:12.376] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[28Jun2025 21:53:26.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[28Jun2025 21:53:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[28Jun2025 21:53:26.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
