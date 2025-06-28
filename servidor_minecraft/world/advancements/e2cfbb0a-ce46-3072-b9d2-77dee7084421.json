@@ -4512,5 +4512,347 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-06-28 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-28 23:12:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
