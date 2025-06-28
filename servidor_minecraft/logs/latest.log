@@ -154,3 +154,9 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [28Jun2025 21:53:26.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
 [28Jun2025 21:53:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [28Jun2025 21:53:26.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[28Jun2025 22:01:18.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:52043] logged in with entity id 5492 at (-3.699999988079071, -54.0, 949.3000000119209)
+[28Jun2025 22:01:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[28Jun2025 22:01:23.668] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[28Jun2025 22:01:23.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[28Jun2025 22:03:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Gave 4 [Wanderlite Crystal] to xXseba_el_proXx]
+[28Jun2025 22:04:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]

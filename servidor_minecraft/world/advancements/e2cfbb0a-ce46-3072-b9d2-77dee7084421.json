@@ -1401,6 +1401,7 @@
       "minecraft:skeleton": "2025-06-26 21:06:40 +0000",
       "minecraft:spider": "2025-06-26 20:34:45 +0000",
       "minecraft:creeper": "2025-06-26 22:04:49 +0000",
+      "minecraft:slime": "2025-06-28 22:08:15 +0000",
       "minecraft:witch": "2025-06-26 22:03:15 +0000",
       "minecraft:zombie": "2025-06-26 20:36:29 +0000",
       "minecraft:drowned": "2025-06-26 23:24:51 +0000"
@@ -4464,6 +4465,18 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-28 19:45:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-28 22:05:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-28 22:09:03 +0000"
     },
     "done": true
   },
