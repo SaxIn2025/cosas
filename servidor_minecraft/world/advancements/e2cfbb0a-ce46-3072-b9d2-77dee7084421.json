@@ -4885,6 +4885,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-06-28 23:30:07 +0000"
@@ -4948,6 +4960,18 @@
   "securitycraft:recipes/misc/lens": {
     "criteria": {
       "has_glass_pane": "2025-06-28 23:33:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
     },
     "done": true
   },
