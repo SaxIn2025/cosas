@@ -265,3 +265,18 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [29Jun2025 02:34:46.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
 [29Jun2025 02:34:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [29Jun2025 02:34:46.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 02:35:25.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:59143] logged in with entity id 26938 at (157.150435151855, 63.0, 1213.0127349310164)
+[29Jun2025 02:35:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 02:35:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 02:35:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 02:37:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Horse started riding Farmer]
+[29Jun2025 02:37:32.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24522, l='ServerLevel[world]', x=64.41, y=66.00, z=1217.89] died, message: 'Villager hit the ground too hard'
+[29Jun2025 02:38:07.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Farmer started riding Chicken]
+[29Jun2025 02:38:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Chicken started riding Chicken]
+[29Jun2025 02:39:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Chicken started riding Mason]
+[29Jun2025 02:39:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Mason started riding Chicken]
+[29Jun2025 02:40:50.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/24521, l='ServerLevel[world]', x=112.29, y=69.35, z=1206.64] died, message: 'Mason was slain by xXLauBy2010Xx'
+[29Jun2025 02:42:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Pig started riding Pig]
+[29Jun2025 02:43:02.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24510, l='ServerLevel[world]', x=95.30, y=70.00, z=1153.30] died, message: 'Farmer was slain by Zombie'
+[29Jun2025 02:43:07.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
+[29Jun2025 02:44:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Trader Llama started riding Wandering Trader]
