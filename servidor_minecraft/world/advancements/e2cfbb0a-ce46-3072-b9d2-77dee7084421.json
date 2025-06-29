@@ -4855,9 +4855,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_gravel": "2025-06-28 23:37:22 +0000"
+      "has_paper": "2025-06-28 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-28 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-06-28 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-28 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-28 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-28 23:30:07 +0000"
     },
     "done": true
   },
@@ -4873,39 +4903,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-28 23:30:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/cyan_lens": {
     "criteria": {
       "has_glass_pane": "2025-06-28 23:33:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
-    "criteria": {
-      "has_block": "2025-06-28 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
-    "criteria": {
-      "has_block": "2025-06-28 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-06-28 23:30:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-06-28 23:30:07 +0000"
     },
     "done": true
   },
@@ -4939,18 +4939,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-06-28 23:30:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-06-28 23:30:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/blue_lens": {
     "criteria": {
       "has_glass_pane": "2025-06-28 23:33:23 +0000"
@@ -4963,27 +4951,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_oak_button": {
-    "criteria": {
-      "has_block": "2025-06-28 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
-    "criteria": {
-      "has_block": "2025-06-28 23:52:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/pink_lens": {
     "criteria": {
       "has_glass_pane": "2025-06-28 23:33:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-06-28 23:30:07 +0000"
     },
     "done": true
   },
@@ -5020,6 +4990,36 @@
   "securitycraft:recipes/misc/black_lens": {
     "criteria": {
       "has_glass_pane": "2025-06-28 23:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-28 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-06-28 23:52:04 +0000"
     },
     "done": true
   },
