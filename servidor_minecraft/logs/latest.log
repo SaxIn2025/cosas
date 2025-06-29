@@ -280,3 +280,139 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [29Jun2025 02:43:02.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24510, l='ServerLevel[world]', x=95.30, y=70.00, z=1153.30] died, message: 'Farmer was slain by Zombie'
 [29Jun2025 02:43:07.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
 [29Jun2025 02:44:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Trader Llama started riding Wandering Trader]
+[29Jun2025 02:45:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Trader Llama started riding Trader Llama]
+[29Jun2025 02:48:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
+[29Jun2025 02:48:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
+[29Jun2025 02:48:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to 3 targets]
+[29Jun2025 02:48:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:49:11.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 02:49:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 02:49:11.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 02:50:22.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:54473] logged in with entity id 31143 at (94.0094815720267, 71.17675927506424, 1174.9053107001325)
+[29Jun2025 02:50:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 02:50:22.705] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 02:50:22.706] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 02:50:22.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
+[29Jun2025 02:50:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
+[29Jun2025 02:51:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
+[29Jun2025 02:51:29.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:32.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
+[29Jun2025 02:51:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
+[29Jun2025 02:51:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:47.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:52.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:53.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
+[29Jun2025 02:51:54.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:58.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:51:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
+[29Jun2025 02:52:21.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
+[29Jun2025 02:52:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:27.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
+[29Jun2025 02:52:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
+[29Jun2025 02:52:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:50.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:51.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:52:52.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:00.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:01.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:01.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:02.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:03.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
+[29Jun2025 02:53:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:10.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
+[29Jun2025 02:53:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
+[29Jun2025 02:53:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
+[29Jun2025 02:53:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:41.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:41.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:42.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:43.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:43.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:44.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:53:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
+[29Jun2025 02:53:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
+[29Jun2025 02:53:59.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:02.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:03.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:18.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:18.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
+[29Jun2025 02:54:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:29.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:32.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:34.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:34.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
+[29Jun2025 02:54:35.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
+[29Jun2025 02:54:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was doomed to fall by Skeleton
+[29Jun2025 02:54:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:54:48.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
+[29Jun2025 02:54:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[29Jun2025 02:54:48.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
