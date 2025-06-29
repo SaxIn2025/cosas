@@ -7854,3 +7854,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 02:54:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
 [29Jun2025 02:54:48.714] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xXLauBy2010Xx
 [29Jun2025 02:54:48.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[29Jun2025 02:55:13.926] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[29Jun2025 02:55:13.926] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: bdda29ac-9d06-46d5-9171-079e76a516a4 watched ships: [30]
+[29Jun2025 02:55:23.826] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[29Jun2025 02:55:23.827] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: bdda29ac-9d06-46d5-9171-079e76a516a4 watched ships: [29]
+[29Jun2025 02:55:23.979] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[29Jun2025 02:55:24.182] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[29Jun2025 02:55:24.229] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[29Jun2025 02:55:25.279] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[29Jun2025 02:55:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[29Jun2025 02:56:50.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[29Jun2025 02:56:53.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:56:55.008] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751165815008
+[29Jun2025 02:57:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:57:04.697] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751165824696
+[29Jun2025 02:57:24.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:57:26.152] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751165846152
+[29Jun2025 02:57:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
+[29Jun2025 02:57:41.696] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751165861695
+[29Jun2025 02:57:54.231] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[29Jun2025 02:57:54.232] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 283964be-8c9f-4962-a1e0-91db76cef8ef watched ships: [30]
+[29Jun2025 02:58:01.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[29Jun2025 02:58:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 02:58:01.432] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xXseba_el_proXx
+[29Jun2025 02:58:01.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 02:59:08.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:59:08.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 03:04:08.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 03:04:08.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
