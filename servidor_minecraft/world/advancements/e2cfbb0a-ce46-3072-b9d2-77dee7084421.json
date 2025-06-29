@@ -10,6 +10,7 @@
       "minecraft:taiga": "2025-06-22 19:39:21 +0000",
       "minecraft:beach": "2025-06-26 19:51:02 +0000",
       "minecraft:river": "2025-06-26 19:51:33 +0000",
+      "minecraft:snowy_plains": "2025-06-29 23:37:01 +0000",
       "minecraft:snowy_taiga": "2025-06-22 19:41:57 +0000",
       "minecraft:dripstone_caves": "2025-06-28 23:38:49 +0000",
       "minecraft:swamp": "2025-06-26 20:06:43 +0000",
@@ -5389,6 +5390,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-29 02:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-29 23:34:14 +0000"
     },
     "done": true
   },

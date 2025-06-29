@@ -1,24 +1,24 @@
-[29Jun2025 00:33:21.107] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Jun2025 00:33:21.112] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[29Jun2025 00:33:22.264] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Jun2025 00:33:22.340] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Jun2025 00:33:22.716] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 00:33:22.719] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 00:33:22.720] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 00:33:22.722] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 00:33:23.363] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 31 dependencies adding them to mods collection
-[29Jun2025 00:33:25.110] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jun2025 00:33:25.166] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Jun2025 00:33:25.548] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 00:33:25.551] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 00:33:26.444] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
-[29Jun2025 00:33:26.446] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[29Jun2025 00:33:26.501] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[29Jun2025 00:33:26.504] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[29Jun2025 00:33:26.507] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[29Jun2025 00:33:26.509] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
-[29Jun2025 00:33:26.513] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[29Jun2025 00:33:26.615] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
+[29Jun2025 23:16:41.808] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Jun2025 23:16:41.814] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[29Jun2025 23:16:44.312] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Jun2025 23:16:44.454] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Jun2025 23:16:44.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 23:16:44.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 23:16:44.980] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 23:16:44.982] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 23:16:46.033] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 31 dependencies adding them to mods collection
+[29Jun2025 23:16:48.491] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Jun2025 23:16:48.562] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Jun2025 23:16:48.748] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 23:16:48.751] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 23:16:49.907] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[29Jun2025 23:16:49.911] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[29Jun2025 23:16:49.961] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[29Jun2025 23:16:49.964] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[29Jun2025 23:16:49.967] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[29Jun2025 23:16:49.971] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[29Jun2025 23:16:49.975] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[29Jun2025 23:16:50.149] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinException: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorInterface.prepareMethod(MixinPreProcessorInterface.java:65) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:187) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
@@ -56,372 +56,147 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jun2025 00:33:26.706] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[29Jun2025 00:33:33.863] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[29Jun2025 00:33:34.277] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zee000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[29Jun2025 00:33:35.495] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Jun2025 00:33:35.495] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Jun2025 00:33:37.571] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Jun2025 00:33:37.644] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Jun2025 00:33:37.655] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[29Jun2025 00:33:37.656] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Jun2025 00:33:37.656] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[29Jun2025 00:33:37.729] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[29Jun2025 00:33:37.729] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[29Jun2025 00:33:37.730] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[29Jun2025 00:33:37.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[29Jun2025 00:33:38.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[29Jun2025 00:33:38.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[29Jun2025 00:33:38.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[29Jun2025 00:33:38.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Jun2025 00:33:38.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.5.32
-[29Jun2025 00:33:38.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jun2025 00:33:39.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Jun2025 00:33:40.207] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Jun2025 00:33:41.963] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
-[29Jun2025 00:33:41.964] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
-[29Jun2025 00:33:47.242] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/cosas/servidor_minecraft/tacz
-[29Jun2025 00:33:47.244] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[29Jun2025 00:33:47.244] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[29Jun2025 00:33:49.523] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[29Jun2025 00:33:49.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3030 advancements
-[29Jun2025 00:33:51.196] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
-[29Jun2025 00:33:51.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Jun2025 00:33:51.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jun2025 00:33:51.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jun2025 00:33:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jun2025 00:33:51.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jun2025 00:33:51.467] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jun2025 00:33:51.556] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jun2025 00:33:51.556] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jun2025 00:33:51.557] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jun2025 00:33:51.558] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jun2025 00:33:51.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jun2025 00:33:52.579] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[29Jun2025 00:33:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jun2025 00:33:58.261] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:33:58.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.304] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.329] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.354] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.361] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 00:33:58.950] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[29Jun2025 00:33:59.263] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:33:59.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[29Jun2025 00:33:59.834] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
-[29Jun2025 00:34:00.263] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:00.411] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[29Jun2025 00:34:00.831] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[29Jun2025 00:34:01.265] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:01.367] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[29Jun2025 00:34:01.868] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[29Jun2025 00:34:02.266] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:02.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[29Jun2025 00:34:02.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[29Jun2025 00:34:03.268] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:03.327] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[29Jun2025 00:34:03.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[29Jun2025 00:34:04.271] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:04.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jun2025 00:34:04.859] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[29Jun2025 00:34:05.273] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:05.328] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[29Jun2025 00:34:05.825] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[29Jun2025 00:34:06.274] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[29Jun2025 00:34:06.326] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[29Jun2025 00:34:06.760] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11436 ms
-[29Jun2025 00:34:06.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.187s)! For help, type "help"
-[29Jun2025 00:34:06.799] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jun2025 00:34:06.801] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Jun2025 00:34:06.817] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[29Jun2025 00:34:17.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:50843] logged in with entity id 96 at (96.82358348161137, 70.0, 1153.8586495065802)
-[29Jun2025 00:34:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 00:34:19.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 00:34:19.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 00:34:21.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:44893] logged in with entity id 285 at (106.16202975666056, 69.0, 1207.8639022559896)
-[29Jun2025 00:34:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 00:34:21.835] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 00:34:21.836] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 00:34:26.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/398, l='ServerLevel[world]', x=250.55, y=64.00, z=1364.45]
-[29Jun2025 00:34:26.359] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/410, l='ServerLevel[world]', x=272.01, y=67.00, z=1291.01]
-[29Jun2025 00:53:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Who is Cutting Onions?]
-[29Jun2025 00:53:50.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Who is Cutting Onions?]
-[29Jun2025 00:56:16.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[29Jun2025 01:11:35.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
-[29Jun2025 01:11:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 01:11:35.980] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 01:11:36.038] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Jun2025 01:12:07.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:45871] logged in with entity id 8780 at (220.45167642576104, -11.0, 1107.5882707865508)
-[29Jun2025 01:12:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 01:12:08.196] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 01:12:08.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 01:14:55.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
-[29Jun2025 01:14:55.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 01:14:55.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 01:16:30.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
-[29Jun2025 01:16:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 01:16:30.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 01:17:50.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:49627] logged in with entity id 9635 at (272.2429182563641, -16.0, 1154.4854914606224)
-[29Jun2025 01:17:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 01:17:51.249] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 01:17:51.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 01:18:20.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
-[29Jun2025 01:18:20.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 01:18:20.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 01:22:01.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:50247] logged in with entity id 9976 at (286.69999998807907, -9.0, 1131.300000011921)
-[29Jun2025 01:22:01.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 01:22:02.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 01:22:02.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 01:27:34.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:33907] logged in with entity id 10748 at (272.2429182563641, -16.0, 1154.4854914606224)
-[29Jun2025 01:27:34.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 01:27:40.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 01:27:40.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 01:29:04.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
-[29Jun2025 01:29:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 01:29:04.977] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 01:29:21.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:46921] logged in with entity id 11033 at (275.6728122001906, -16.0, 1158.5315989134083)
-[29Jun2025 01:29:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 01:29:22.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 01:29:22.328] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 01:30:22.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
-[29Jun2025 01:30:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 01:30:22.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 01:31:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
-[29Jun2025 01:35:30.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:37305] logged in with entity id 12066 at (281.71856629970813, -18.0, 1174.699999988079)
-[29Jun2025 01:35:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 01:35:30.412] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 01:35:30.412] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 01:35:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx suffocated in a wall
-[29Jun2025 01:35:57.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 280.500000, -18.000000, 1174.500000]
-[29Jun2025 01:36:13.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
-[29Jun2025 01:49:18.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
-[29Jun2025 01:49:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 01:49:18.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 01:50:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> PITO
-[29Jun2025 01:50:36.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:40639] logged in with entity id 15364 at (465.7000036276877, -5.940981492542478, 1242.0579960681498)
-[29Jun2025 01:50:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 01:50:37.708] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 01:50:37.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 01:50:40.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> PITO CON COLAS = SEXO ANAL
-[29Jun2025 01:57:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 01:57:59.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 01:58:23.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 01:58:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 01:58:53.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx tried to swim in lava
-[29Jun2025 01:59:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 01:59:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
-[29Jun2025 02:00:06.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Speed to xXLauBy2010Xx]
-[29Jun2025 02:00:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx tried to swim in lava to escape Zombie
-[29Jun2025 02:00:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
-[29Jun2025 02:00:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Jump Boost to xXLauBy2010Xx]
-[29Jun2025 02:01:20.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by xXseba_el_proXx
-[29Jun2025 02:02:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Blindness to xXLauBy2010Xx]
-[29Jun2025 02:03:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Blindness to xXLauBy2010Xx]
-[29Jun2025 02:03:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
-[29Jun2025 02:04:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to xXLauBy2010Xx]
-[29Jun2025 02:04:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to xXLauBy2010Xx]
-[29Jun2025 02:04:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Haste to xXLauBy2010Xx]
-[29Jun2025 02:04:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Haste to xXLauBy2010Xx]
-[29Jun2025 02:05:01.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=-47, z=1151} BlockPos{x=514, y=-47, z=1151}
-[29Jun2025 02:05:01.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=-47, z=1151} BlockPos{x=515, y=-47, z=1151}
-[29Jun2025 02:05:22.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
-[29Jun2025 02:05:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 02:05:22.730] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 02:06:14.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:42369] logged in with entity id 19661 at (516.1310288772311, -54.0, 1155.1491455752046)
-[29Jun2025 02:06:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 02:06:14.982] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 02:06:14.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 02:08:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
-[29Jun2025 02:08:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
-[29Jun2025 02:11:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx tried to swim in lava
-[29Jun2025 02:16:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to xXLauBy2010Xx]
-[29Jun2025 02:19:30.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
-[29Jun2025 02:19:30.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 02:19:30.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 02:20:21.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
-[29Jun2025 02:20:21.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 02:20:21.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 02:20:29.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:52981] logged in with entity id 23421 at (570.7636556345061, -54.0, 1208.0138454614757)
-[29Jun2025 02:20:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 02:20:30.303] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 02:20:30.303] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 02:20:59.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:42559] logged in with entity id 23800 at (555.7135862882169, -54.0, 1199.099155280708)
-[29Jun2025 02:20:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
-[29Jun2025 02:20:59.539] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
-[29Jun2025 02:20:59.539] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
-[29Jun2025 02:21:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by xXseba_el_proXx
-[29Jun2025 02:22:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx fell from a high place
-[29Jun2025 02:23:02.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
-[29Jun2025 02:29:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> wae
-[29Jun2025 02:29:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> webi wabo
-[29Jun2025 02:34:46.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
-[29Jun2025 02:34:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 02:34:46.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 02:35:25.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:59143] logged in with entity id 26938 at (157.150435151855, 63.0, 1213.0127349310164)
-[29Jun2025 02:35:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 02:35:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 02:35:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 02:37:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Horse started riding Farmer]
-[29Jun2025 02:37:32.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24522, l='ServerLevel[world]', x=64.41, y=66.00, z=1217.89] died, message: 'Villager hit the ground too hard'
-[29Jun2025 02:38:07.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Farmer started riding Chicken]
-[29Jun2025 02:38:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Chicken started riding Chicken]
-[29Jun2025 02:39:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Chicken started riding Mason]
-[29Jun2025 02:39:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Mason started riding Chicken]
-[29Jun2025 02:40:50.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/24521, l='ServerLevel[world]', x=112.29, y=69.35, z=1206.64] died, message: 'Mason was slain by xXLauBy2010Xx'
-[29Jun2025 02:42:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Pig started riding Pig]
-[29Jun2025 02:43:02.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24510, l='ServerLevel[world]', x=95.30, y=70.00, z=1153.30] died, message: 'Farmer was slain by Zombie'
-[29Jun2025 02:43:07.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
-[29Jun2025 02:44:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Trader Llama started riding Wandering Trader]
-[29Jun2025 02:45:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Trader Llama started riding Trader Llama]
-[29Jun2025 02:48:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
-[29Jun2025 02:48:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
-[29Jun2025 02:48:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to 3 targets]
-[29Jun2025 02:48:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:49:11.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
-[29Jun2025 02:49:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 02:49:11.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
-[29Jun2025 02:50:22.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:54473] logged in with entity id 31143 at (94.0094815720267, 71.17675927506424, 1174.9053107001325)
-[29Jun2025 02:50:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
-[29Jun2025 02:50:22.705] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
-[29Jun2025 02:50:22.706] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
-[29Jun2025 02:50:22.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
-[29Jun2025 02:50:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
-[29Jun2025 02:51:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
-[29Jun2025 02:51:29.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:32.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
-[29Jun2025 02:51:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
-[29Jun2025 02:51:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:47.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:52.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:53.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by Zombie
-[29Jun2025 02:51:54.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:58.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:51:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Zombie]
-[29Jun2025 02:52:21.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
-[29Jun2025 02:52:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:27.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
-[29Jun2025 02:52:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
-[29Jun2025 02:52:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:50.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:51.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:52:52.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:00.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:01.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:01.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:02.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:03.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXseba_el_proXx> w
-[29Jun2025 02:53:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:10.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
-[29Jun2025 02:53:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Creeper]
-[29Jun2025 02:53:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was blown up by Creeper
-[29Jun2025 02:53:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:41.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:41.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:42.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:43.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:43.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:44.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:53:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
-[29Jun2025 02:53:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
-[29Jun2025 02:53:59.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:02.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:03.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:18.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:18.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was shot by Skeleton
-[29Jun2025 02:54:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:29.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:32.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:34.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:34.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Summoned new Skeleton]
-[29Jun2025 02:54:35.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was blown up by Creeper
-[29Jun2025 02:54:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was doomed to fall by Skeleton
-[29Jun2025 02:54:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:54:48.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Disconnected
-[29Jun2025 02:54:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
-[29Jun2025 02:54:48.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
-[29Jun2025 02:55:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
-[29Jun2025 02:56:50.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
-[29Jun2025 02:56:53.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:57:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:57:24.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:57:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Skeleton
-[29Jun2025 02:58:01.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
-[29Jun2025 02:58:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
-[29Jun2025 02:58:01.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:16:50.245] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[29Jun2025 23:17:00.113] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[29Jun2025 23:17:00.721] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zee000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[29Jun2025 23:17:02.150] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Jun2025 23:17:02.150] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Jun2025 23:17:04.023] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[29Jun2025 23:17:04.101] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[29Jun2025 23:17:04.110] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[29Jun2025 23:17:04.110] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[29Jun2025 23:17:04.110] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[29Jun2025 23:17:04.186] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[29Jun2025 23:17:04.187] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[29Jun2025 23:17:04.187] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[29Jun2025 23:17:04.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[29Jun2025 23:17:04.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[29Jun2025 23:17:04.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Jun2025 23:17:05.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[29Jun2025 23:17:05.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[29Jun2025 23:17:05.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.5.32
+[29Jun2025 23:17:05.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jun2025 23:17:05.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29Jun2025 23:17:07.611] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Jun2025 23:17:09.361] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
+[29Jun2025 23:17:09.361] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
+[29Jun2025 23:17:14.724] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/cosas/servidor_minecraft/tacz
+[29Jun2025 23:17:14.726] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[29Jun2025 23:17:14.727] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[29Jun2025 23:17:16.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[29Jun2025 23:17:17.054] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3030 advancements
+[29Jun2025 23:17:18.763] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[29Jun2025 23:17:18.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Jun2025 23:17:18.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jun2025 23:17:18.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jun2025 23:17:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jun2025 23:17:18.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jun2025 23:17:18.995] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jun2025 23:17:19.090] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jun2025 23:17:19.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jun2025 23:17:19.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jun2025 23:17:19.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jun2025 23:17:19.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jun2025 23:17:20.240] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[29Jun2025 23:17:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jun2025 23:17:25.213] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:25.224] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:25.225] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:25.226] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:25.227] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:25.574] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:26.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:26.025] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[29Jun2025 23:17:26.526] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:27.018] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:17:27.026] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[29Jun2025 23:17:27.518] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[29Jun2025 23:17:28.027] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[29Jun2025 23:17:28.038] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[29Jun2025 23:17:28.524] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[29Jun2025 23:17:29.028] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[29Jun2025 23:17:29.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jun2025 23:17:29.751] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[29Jun2025 23:17:30.029] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[29Jun2025 23:17:30.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[29Jun2025 23:17:30.466] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7448 ms
+[29Jun2025 23:17:30.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.360s)! For help, type "help"
+[29Jun2025 23:17:30.505] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jun2025 23:17:30.507] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[29Jun2025 23:17:30.517] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[29Jun2025 23:17:48.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:35559] logged in with entity id 112 at (107.43054825458096, 68.9375, 1195.084715761307)
+[29Jun2025 23:17:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:17:54.833] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:17:54.835] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:18:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 54 entities]
+[29Jun2025 23:19:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[29Jun2025 23:19:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[29Jun2025 23:20:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was slain by Zombie
+[29Jun2025 23:21:14.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 20 entities]
+[29Jun2025 23:21:19.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:21:19.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:21:19.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:21:36.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:51039] logged in with entity id 1850 at (90.86031741496618, 70.02442408821369, 1159.039828027597)
+[29Jun2025 23:21:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:21:37.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:21:37.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:22:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 11 entities]
+[29Jun2025 23:22:06.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:22:06.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:22:06.476] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:22:39.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:49779] logged in with entity id 2232 at (90.86031741496618, 70.02442408821369, 1159.039828027597)
+[29Jun2025 23:22:39.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:22:40.637] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:22:40.638] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:23:10.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:23:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:23:10.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:23:34.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:44965] logged in with entity id 2604 at (91.36015015160118, 69.9375, 1161.9937747594822)
+[29Jun2025 23:23:34.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:23:34.783] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:23:34.783] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:37:05.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:37:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:37:05.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:38:14.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:55585] logged in with entity id 6021 at (-136.12015318845076, 69.0, 1201.0103182434182)
+[29Jun2025 23:38:14.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:38:15.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:38:15.260] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:38:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Pillager
+[29Jun2025 23:38:54.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -136.500000, 69.000000, 1201.500000]
+[29Jun2025 23:39:14.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:39:14.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:39:14.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:39:33.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:53855] logged in with entity id 6699 at (-136.5, 69.0, 1201.5)
+[29Jun2025 23:39:33.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:39:34.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:39:34.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:39:43.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Pillager
+[29Jun2025 23:40:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -136.500000, 69.000000, 1201.500000]
+[29Jun2025 23:40:19.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:40:19.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:40:19.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:40:43.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:40093] logged in with entity id 7502 at (-136.5, 69.0, 1201.5)
+[29Jun2025 23:40:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:40:43.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:40:43.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:40:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx was shot by Pillager
+[29Jun2025 23:40:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[29Jun2025 23:41:13.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:41:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:41:13.177] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 23:44:59.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Jun2025 23:44:59.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[29Jun2025 23:45:49.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:38649] logged in with entity id 8166 at (97.5, 70.0, 1153.5)
+[29Jun2025 23:45:49.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 23:45:50.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 23:45:50.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 23:46:19.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 23:46:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 23:46:19.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
