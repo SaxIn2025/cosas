@@ -620,6 +620,7 @@
       "beef": "2025-06-27 03:22:59 +0000",
       "porkchop": "2025-06-27 03:09:07 +0000",
       "potato": "2025-06-27 03:09:15 +0000",
+      "bread": "2025-06-29 00:45:19 +0000",
       "rotten_flesh": "2025-06-27 01:54:25 +0000",
       "carrot": "2025-06-27 03:11:06 +0000"
     },
@@ -3398,6 +3399,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-29 00:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-29 00:47:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-29 00:38:49 +0000"
@@ -3449,6 +3462,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-29 00:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:39:10 +0000"
     },
     "done": true
   },
