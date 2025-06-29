@@ -155,3 +155,28 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [29Jun2025 00:53:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx has made the advancement [Who is Cutting Onions?]
 [29Jun2025 00:53:50.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx has made the advancement [Who is Cutting Onions?]
 [29Jun2025 00:56:16.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[29Jun2025 01:11:35.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[29Jun2025 01:11:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 01:11:35.980] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 01:11:36.038] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 01:12:07.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:45871] logged in with entity id 8780 at (220.45167642576104, -11.0, 1107.5882707865508)
+[29Jun2025 01:12:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 01:12:08.196] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 01:12:08.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 01:14:55.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
+[29Jun2025 01:14:55.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[29Jun2025 01:14:55.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[29Jun2025 01:16:30.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
+[29Jun2025 01:16:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 01:16:30.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 01:17:50.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXLauBy2010Xx[/127.255.7.133:49627] logged in with entity id 9635 at (272.2429182563641, -16.0, 1154.4854914606224)
+[29Jun2025 01:17:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx joined the game
+[29Jun2025 01:17:51.249] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXLauBy2010Xx (18)
+[29Jun2025 01:17:51.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXLauBy2010Xx
+[29Jun2025 01:18:20.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXLauBy2010Xx lost connection: Timed out
+[29Jun2025 01:18:20.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx left the game
+[29Jun2025 01:18:20.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXLauBy2010Xx
+[29Jun2025 01:22:01.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:50247] logged in with entity id 9976 at (286.69999998807907, -9.0, 1131.300000011921)
+[29Jun2025 01:22:01.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 01:22:02.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 01:22:02.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
