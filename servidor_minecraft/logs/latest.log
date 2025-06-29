@@ -260,3 +260,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [29Jun2025 02:21:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx was slain by xXseba_el_proXx
 [29Jun2025 02:22:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXLauBy2010Xx fell from a high place
 [29Jun2025 02:23:02.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
+[29Jun2025 02:29:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> wae
+[29Jun2025 02:29:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXLauBy2010Xx> webi wabo
+[29Jun2025 02:34:46.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 02:34:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 02:34:46.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
