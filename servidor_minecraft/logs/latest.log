@@ -227,3 +227,18 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [29Jun2025 02:03:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Blindness to xXLauBy2010Xx]
 [29Jun2025 02:03:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXLauBy2010Xx to xXseba_el_proXx]
 [29Jun2025 02:04:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to xXLauBy2010Xx]
+[29Jun2025 02:04:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Levitation to xXLauBy2010Xx]
+[29Jun2025 02:04:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Haste to xXLauBy2010Xx]
+[29Jun2025 02:04:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXLauBy2010Xx: Applied effect Haste to xXLauBy2010Xx]
+[29Jun2025 02:05:01.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=-47, z=1151} BlockPos{x=514, y=-47, z=1151}
+[29Jun2025 02:05:01.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=-47, z=1151} BlockPos{x=515, y=-47, z=1151}
+[29Jun2025 02:05:22.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[29Jun2025 02:05:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[29Jun2025 02:05:22.730] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[29Jun2025 02:06:14.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:42369] logged in with entity id 19661 at (516.1310288772311, -54.0, 1155.1491455752046)
+[29Jun2025 02:06:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[29Jun2025 02:06:14.982] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[29Jun2025 02:06:14.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[29Jun2025 02:08:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
+[29Jun2025 02:08:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[29Jun2025 02:11:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx tried to swim in lava
