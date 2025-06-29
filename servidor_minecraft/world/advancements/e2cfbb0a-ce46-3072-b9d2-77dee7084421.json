@@ -740,7 +740,8 @@
       "cooked_beef": "2025-06-28 19:27:43 +0000",
       "potato": "2025-06-29 02:04:10 +0000",
       "bread": "2025-06-26 20:17:49 +0000",
-      "rotten_flesh": "2025-06-28 22:19:07 +0000"
+      "rotten_flesh": "2025-06-28 22:19:07 +0000",
+      "beetroot": "2025-06-29 02:21:26 +0000"
     },
     "done": false
   },
@@ -5358,6 +5359,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-29 01:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-29 02:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-29 02:16:23 +0000"
     },
     "done": true
   },
