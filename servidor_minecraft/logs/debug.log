@@ -5500,3 +5500,36 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 02:29:53.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 02:34:53.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jun2025 02:34:53.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 02:38:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
+[30Jun2025 02:38:20.388] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:38:20.388] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f watched ships: [30]
+[30Jun2025 02:38:35.996] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[30Jun2025 02:38:35.996] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f watched ships: [29]
+[30Jun2025 02:38:37.844] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[30Jun2025 02:38:50.896] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[30Jun2025 02:38:51.149] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[30Jun2025 02:38:51.447] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[30Jun2025 02:39:53.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 02:39:53.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 02:40:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -345.500000, 69.000000, -1329.500000]
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789567 : 768128
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768129
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768128
+[30Jun2025 02:40:57.106] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f unwatched ships [29, 30]
+[30Jun2025 02:41:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
+[30Jun2025 02:41:35.354] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:41:35.354] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f watched ships: [30]
+[30Jun2025 02:42:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -345.500000, 69.000000, -1329.500000]
+[30Jun2025 02:42:43.027] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:42:43.028] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f unwatched ships [30]
+[30Jun2025 02:43:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
+[30Jun2025 02:43:57.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:43:57.444] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f watched ships: [30]
+[30Jun2025 02:44:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -345.500000, 69.000000, -1329.500000]
+[30Jun2025 02:44:14.461] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768129
+[30Jun2025 02:44:14.461] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 9493c520-f297-4713-a437-603d089c545f unwatched ships [30]
+[30Jun2025 02:44:53.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 02:44:53.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
