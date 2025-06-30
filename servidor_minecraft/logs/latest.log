@@ -143,3 +143,13 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [30Jun2025 01:09:44.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Creative Mode]
 [30Jun2025 01:11:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Killed 7 entities]
 [30Jun2025 01:11:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Set own game mode to Survival Mode]
+[30Jun2025 01:29:12.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=64, z=307} BlockPos{x=-144, y=62, z=307}
+[30Jun2025 01:31:41.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[30Jun2025 01:31:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[30Jun2025 01:31:41.052] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[30Jun2025 01:31:58.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:46197] logged in with entity id 8767 at (-35.94758600962206, 63.08576431274414, -532.3456059926572)
+[30Jun2025 01:31:58.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[30Jun2025 01:31:58.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[30Jun2025 01:31:58.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[30Jun2025 01:40:41.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -342.500000, 67.000000, -1032.500000]
+[30Jun2025 01:41:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -345.500000, 69.000000, -1329.500000]
