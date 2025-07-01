@@ -134,3 +134,7 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [01Jul2025 23:28:01.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
 [01Jul2025 23:28:01.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [01Jul2025 23:28:01.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[01Jul2025 23:30:10.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:44401] logged in with entity id 441 at (108.41298354231019, 76.0, 1206.5447611421598)
+[01Jul2025 23:30:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[01Jul2025 23:30:11.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
+[01Jul2025 23:30:11.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
