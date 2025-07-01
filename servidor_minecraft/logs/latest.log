@@ -138,3 +138,5 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [01Jul2025 23:30:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
 [01Jul2025 23:30:11.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xXseba_el_proXx (18)
 [01Jul2025 23:30:11.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xXseba_el_proXx
+[01Jul2025 23:39:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to -345.500000, 69.000000, -1329.500000]
+[01Jul2025 23:41:59.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXseba_el_proXx: Teleported xXseba_el_proXx to 96.500000, 70.000000, 1154.500000]
