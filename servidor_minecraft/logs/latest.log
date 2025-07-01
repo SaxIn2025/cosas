@@ -129,3 +129,8 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [01Jul2025 23:08:58.995] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [01Jul2025 23:08:59.013] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'prior-don.gl.at.ply.gg:4417'
 [01Jul2025 23:08:59.014] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4417
+[01Jul2025 23:27:31.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXseba_el_proXx[/127.135.99.248:41629] logged in with entity id 96 at (108.41298354231019, 76.0, 1206.5447611421598)
+[01Jul2025 23:27:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx joined the game
+[01Jul2025 23:28:01.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Timed out
+[01Jul2025 23:28:01.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
+[01Jul2025 23:28:01.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
