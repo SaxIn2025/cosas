@@ -5629,3 +5629,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jul2025 20:13:44.198] [Netty Epoll Server IO #1/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@11acd239, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
 [05Jul2025 20:14:08.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 20:14:08.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:19:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [The Andesite Age]
+[05Jul2025 20:19:08.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:19:08.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:23:07.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Disconnected
+[05Jul2025 20:23:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[05Jul2025 20:23:07.253] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MxM_7z
+[05Jul2025 20:23:07.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
+[05Jul2025 20:24:08.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:24:08.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

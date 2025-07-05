@@ -170,3 +170,7 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [05Jul2025 20:13:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z joined the game
 [05Jul2025 20:13:37.537] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MxM_7z (18)
 [05Jul2025 20:13:37.538] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MxM_7z
+[05Jul2025 20:19:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z has made the advancement [The Andesite Age]
+[05Jul2025 20:23:07.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Disconnected
+[05Jul2025 20:23:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[05Jul2025 20:23:07.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
