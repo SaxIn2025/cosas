@@ -162,3 +162,11 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 [05Jul2025 20:06:13.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXseba_el_proXx lost connection: Disconnected
 [05Jul2025 20:06:13.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXseba_el_proXx left the game
 [05Jul2025 20:06:13.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xXseba_el_proXx
+[05Jul2025 20:12:49.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z was blown up by Creeper
+[05Jul2025 20:13:30.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MxM_7z lost connection: Disconnected
+[05Jul2025 20:13:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z left the game
+[05Jul2025 20:13:30.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MxM_7z
+[05Jul2025 20:13:36.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MxM_7z[/127.114.40.229:53117] logged in with entity id 6431 at (789.9827940101574, 64.0, 1202.6075191410937)
+[05Jul2025 20:13:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MxM_7z joined the game
+[05Jul2025 20:13:37.537] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MxM_7z (18)
+[05Jul2025 20:13:37.538] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MxM_7z
