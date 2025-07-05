@@ -5979,5 +5979,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-02 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-07-02 02:29:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
